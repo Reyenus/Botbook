@@ -1,7 +1,7 @@
 import os
 import sys
 
-BOOK_PATH = 'book/Bredberi_Marsianskie-hroniki.txt'
+BOOK_PATH = 'book/ЧеловекВФутляре.txt'
 PAGE_SIZE = 1050
 
 book: dict[int, str] = {}
